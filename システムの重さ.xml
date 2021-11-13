@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[システムの重さ]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align: left;">2021-11-07 21:20 過ぎにメモリを増強<br></p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[10]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czoxNDU6InNlbGVjdCtGUk9NX1VOSVhUSU1FJTI4dGltZSUyOSthcyt0aW1lJTBEJTBBJTJDY3B1JTJDK21lbW9yeSUyQytzdG9yYWdlJTBEJTBBZnJvbStwcmVmaXhfYmxvY2tfZWR3aXNlcl9zaXRlX21vbml0b3IlMEQlMEElMEQlMEFPUkRFUitCWSt0aW1lK0RFU0MiO3M6ODoiY291cnNlaWQiO2k6MjtzOjEyOiJzdWJtaXRidXR0b24iO3M6NjM6IiVFNSVBNCU4OSVFNiU5QiVCNCVFMyU4MiU5MiVFNCVCRiU5RCVFNSVBRCU5OCVFMyU4MSU5OSVFMyU4MiU4QiI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[7]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
