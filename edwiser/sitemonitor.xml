@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2020110300"><visible><![CDATA[1]]></visible>
-<name><![CDATA[システムの重さ]]></name>
-<summary><![CDATA[<p dir="ltr" style="text-align: left;">2021-11-07 21:20 過ぎにメモリを増強<br></p>]]></summary>
+<name><![CDATA[SiteMonitor]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align: left;">CPU、メモリ、ストレージの利用状況<br></p>]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[sql]]></type>
 <pagination><![CDATA[10]]></pagination>
