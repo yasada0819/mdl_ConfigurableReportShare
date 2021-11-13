@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[年度別コース数]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[10]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo0NDg6InNlbGVjdCtjYy5uYW1lJTJDK2NjLnBhdGglMkMrbGVmdCUyOGNjLnBhdGglMkM3JTI5JTJDK2NvdW50JTI4JTJBJTI5JTBEJTBBLS0rK2NjLnBhdGgrJUUzJTgxJUFGJUU5JTgxJUE5JUU1JUFFJTlDJUU1JUE0JTg5JUU2JTlCJUI0JTBEJTBBJTBEJTBBZnJvbStwcmVmaXhfY291cnNlK2FzK2MrJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX2NhdGVnb3JpZXMrYXMrY2Mrb24rYy5jYXRlZ29yeSslM0QrY2MuaWQlMEQlMEElMEQlMEEtLSt3aGVyZStsZWZ0JTI4Y2MucGF0aCUyQyszJTI5KyUzRCslMjclMkYxJTJGJTI3JTBEJTBBd2hlcmUrbGVmdCUyOGNjLnBhdGglMkMrOCUyOSslM0QrJTI3JTJGMjY2JTJGMjY3JTI3JTBEJTBBJTBEJTBBJTBEJTBBZ3JvdXArYnkrY2MubmFtZSUyQytjYy5wYXRoJTJDK2xlZnQlMjhjYy5wYXRoJTJDNyUyOSUwRCUwQSUwRCUwQW9yZGVyK2J5K2NjLnBhdGgiO3M6ODoiY291cnNlaWQiO2k6MzEzODtzOjEyOiJzdWJtaXRidXR0b24iO3M6NjM6IiVFNSVBNCU4OSVFNiU5QiVCNCVFMyU4MiU5MiVFNCVCRiU5RCVFNSVBRCU5OCVFMyU4MSU5OSVFMyU4MiU4QiI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
